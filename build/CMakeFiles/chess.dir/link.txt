@@ -1,0 +1,2 @@
+/usr/bin/ar qc libchess.a CMakeFiles/chess.dir/src/piece.cpp.o CMakeFiles/chess.dir/src/board.cpp.o CMakeFiles/chess.dir/src/game.cpp.o CMakeFiles/chess.dir/src/strategy_minimax.cpp.o CMakeFiles/chess.dir/src/eval.cpp.o
+/usr/bin/ranlib libchess.a
