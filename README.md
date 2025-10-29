@@ -15,4 +15,12 @@ Requirements: CMake ≥ 3.20 and a C++20 compiler (Clang/GCC/MSVC).
 cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build -j
 ```
+### Run
+```
+./build/chess_app       # demo
+./build/chess_perft     # perft tool
+./build/chess_uci       # UCI engine
+./build/chess_tests     # tests
+
+```
 
