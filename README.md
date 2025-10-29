@@ -6,5 +6,5 @@ The distribution of Ichigo consists of the following files:
 * [include/](./include/), a subdirectory containing the header files for the source code
 * [src/](./src/), a subdirectory containing the full source code
 
-# Compiling Ichigo
+## Compiling Ichigo
 
