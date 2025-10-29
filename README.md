@@ -9,7 +9,7 @@ The distribution of Ichigo consists of the following files:
 ## Build & Run
 
 ### Build
-Requirements: CMake ≥ 3.20 and a C++20 compiler (Clang/GCC/MSVC).
+Requirements: CMake ≥ 3.20 and a C++20 compiler (Clang/GCC).
 ```
 # from repo root
 cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
