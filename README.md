@@ -1,5 +1,5 @@
 # C++ Chess Engine (Ichigo)
-Ichigo is a C++ chess engine that I built to bridge the intersection between my passion for programming and chess. This project will serve as a tool for exploring various domains of computer science (i.e. OOP, Bitboards, Adverserial Search Algs., Reinforcement learning, Machine Learning, and maybe even systems programming. View this as a space for me to grow and a playground for me to get practice with domians that interest me.
+Ichigo is a C++ chess engine that I built to bridge the intersection between my passion for programming and chess. This project will serve as a tool for exploring various domains of computer science (i.e. OOP, Bitboards, Adverserial Search Algs., Reinforcement learning, Machine Learning, and maybe even systems programming. View this as a space to grow and a playground to practice in the domains that interest me.
 
 Current Features: 
 - Full Game logic Implementaions
